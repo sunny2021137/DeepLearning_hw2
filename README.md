@@ -1,6 +1,6 @@
 # DeepLearning_hw2
 ## 執行前
-將image和test.txt、train.txt、val.txt先放置資料夾下
+將images資料夾和test.txt、train.txt、val.txt先放置資料夾下
 ## 程式執行方式：
 原始實驗結果使用Weights & Biases做數據追蹤，若有Weights & Biases帳號可執行task1.ipynb 和 task2.ipynb，若無Weights & Biases帳號則執行task1_final.ipynb 和task2_final.ipynb。
 ### 要執行Task1的實驗：
