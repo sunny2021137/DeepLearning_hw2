@@ -1,3 +1,0 @@
-程式執行方式：
-要執行Task1的實驗，執行task1.ipynb對應的實驗funtion
-要執行Task2的實驗，執行task2.ipynb對應的實驗funtion
